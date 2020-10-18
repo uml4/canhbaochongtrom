@@ -1,3 +1,3 @@
 # canhbaochongtrom
 
-<img href="https://github.com/uml4/canhbaochongtrom/blob/main/test.png" />
+https://github.com/uml4/canhbaochongtrom/blob/main/test.png
